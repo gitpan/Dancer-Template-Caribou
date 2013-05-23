@@ -2,7 +2,7 @@ NAME
     Dancer::Template::Caribou - Template::Caribou wrapper for Dancer
 
 VERSION
-    version 0.1.0
+    version 0.1.1
 
 SYNOPSIS
         # in 'config.yml'

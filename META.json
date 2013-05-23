@@ -38,6 +38,7 @@
             "Moose::Util" : "0",
             "Path::Iterator::Rule" : "0",
             "Path::Tiny" : "0",
+            "Template::Caribou" : "v0.2.2",
             "strict" : "0",
             "utf8" : "0",
             "warnings" : "0"
@@ -58,7 +59,7 @@
    "provides" : {
       "Dancer::Template::Caribou" : {
          "file" : "lib/Dancer/Template/Caribou.pm",
-         "version" : "v0.1.0"
+         "version" : "v0.1.1"
       }
    },
    "release_status" : "stable",
@@ -74,7 +75,7 @@
          "web" : "https://github.com/yanick/Dancer-Template-Caribou"
       }
    },
-   "version" : "0.1.0",
+   "version" : "0.1.1",
    "x_author_pledge" : {
       "version" : 1
    },
